@@ -1,3 +1,3 @@
 # geojson
-following the quickstart from leaflet
-https://leafletjs.com/examples/quick-start/
+reference:
+https://leafletjs.com/examples/geojson/
